@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "name": "BabyDry Ultra Newborn Diapers Size 1",
+    "category": "diapering",
+    "description": "Soft, ultra-absorbent newborn diapers designed for delicate skin during the first weeks of life, offering up to 12 hours of dryness and a gentle waistband that protects the umbilical cord stump.",
+    "price": 320,
+    "rating": 4.7,
+    "combined_text": "BabyDry Ultra Newborn Diapers Size 1 diapering Soft, ultra-absorbent newborn diapers designed for delicate skin during the first weeks of life, offering up to 12 hours of dryness and a gentle waistband that protects the umbilical cord stump."
+  },
+  {
+    "id": 2,
+    "name": "WaterWipes Pure Baby Wipes 9-Pack",
+    "category": "diapering",
+    "description": "Made with 99.9% water and a drop of fruit extract, these hypoallergenic wipes are ideal for newborns and sensitive skin during every diaper change, leaving no residue or irritation.",
+    "price": 450,
+    "rating": 4.8,
+    "combined_text": "WaterWipes Pure Baby Wipes 9-Pack diapering Made with 99.9% water and a drop of fruit extract, these hypoallergenic wipes are ideal for newborns and sensitive skin during every diaper change, leaving no residue or irritation."
+  },
+  {
+    "id": 3,
+    "name": "Munchkin Arm & Hammer Diaper Pail",
+    "category": "diapering",
+    "description": "Odor-locking diaper pail featuring baking soda neutralization technology, making nursery diaper disposal hygienic and odor-free throughout the diapering stage from newborn to toddler.",
+    "price": 1200,
+    "rating": 4.5,
+    "combined_text": "Munchkin Arm & Hammer Diaper Pail diapering Odor-locking diaper pail featuring baking soda neutralization technology, making nursery diaper disposal hygienic and odor-free throughout the diapering stage from newborn to toddler."
+  },
+  {
+    "id": 4,
+    "name": "Pampers Sensitive Wipes Refill 672-Count",
+    "category": "diapering",
+    "description": "Alcohol-free and fragrance-free wipes designed for frequent diaper changes, gentle enough for newborn skin while effectively cleaning messes with a single soft wipe.",
+    "price": 580,
+    "rating": 4.6,
+    "combined_text": "Pampers Sensitive Wipes Refill 672-Count diapering Alcohol-free and fragrance-free wipes designed for frequent diaper changes, gentle enough for newborn skin while effectively cleaning messes with a single soft wipe."
+  },
+  {
+    "id": 5,
+    "name": "Skip Hop Grab & Go Diaper Bag Backpack",
+    "category": "diapering",
+    "description": "Stylish and functional diaper backpack with insulated bottle pockets, changing mat, and stroller straps, making on-the-go diaper changes organized and effortless for busy parents.",
+    "price": 1850,
+    "rating": 4.7,
+    "combined_text": "Skip Hop Grab & Go Diaper Bag Backpack diapering Stylish and functional diaper backpack with insulated bottle pockets, changing mat, and stroller straps, making on-the-go diaper changes organized and effortless for busy parents."
+  },
+  {
+    "id": 6,
+    "name": "LuvLap Reusable Cloth Diapers 5-Pack",
+    "category": "diapering",
+    "description": "Eco-friendly adjustable cloth diapers with leak-proof double gussets, suitable from 3 to 15 kg, saving money long-term while reducing environmental waste during the diapering years.",
+    "price": 750,
+    "rating": 4.3,
+    "combined_text": "LuvLap Reusable Cloth Diapers 5-Pack diapering Eco-friendly adjustable cloth diapers with leak-proof double gussets, suitable from 3 to 15 kg, saving money long-term while reducing environmental waste during the diapering years."
+  },
+  {
+    "id": 7,
+    "name": "Huggies Little Snugglers Size 2 Diapers",
+    "category": "diapering",
+    "description": "Feather-soft diapers with a pocketed waistband to contain blowouts, perfect for babies aged one to three months, keeping skin dry and comfortable throughout the day and night.",
+    "price": 370,
+    "rating": 4.6,
+    "combined_text": "Huggies Little Snugglers Size 2 Diapers diapering Feather-soft diapers with a pocketed waistband to contain blowouts, perfect for babies aged one to three months, keeping skin dry and comfortable throughout the day and night."
+  },
+  {
+    "id": 8,
+    "name": "Ubbi Steel Diaper Pail with Childproof Lock",
+    "category": "diapering",
+    "description": "Sleek stainless steel diaper pail with a sliding lid that seals in odors without special bags, a childproof lock for safety, and compatible with standard trash bags for easy disposal.",
+    "price": 1600,
+    "rating": 4.4,
+    "combined_text": "Ubbi Steel Diaper Pail with Childproof Lock diapering Sleek stainless steel diaper pail with a sliding lid that seals in odors without special bags, a childproof lock for safety, and compatible with standard trash bags for easy disposal."
+  },
+  {
+    "id": 9,
+    "name": "Babyganics Diaper Rash Cream 113g",
+    "category": "diapering",
+    "description": "Plant-powered diaper rash cream free from parabens and sulfates, creating a protective barrier on baby's skin to prevent and treat redness and irritation during extended diaper wear.",
+    "price": 280,
+    "rating": 4.5,
+    "combined_text": "Babyganics Diaper Rash Cream 113g diapering Plant-powered diaper rash cream free from parabens and sulfates, creating a protective barrier on baby's skin to prevent and treat redness and irritation during extended diaper wear."
+  },
+  {
+    "id": 10,
+    "name": "OXO Tot Perfect Pull Wipes Dispenser",
+    "category": "diapering",
+    "description": "Compact wipes dispenser that dispenses one wipe at a time for clean, one-handed operation during diaper changes, fitting standard pack sizes and reducing mess on the changing table.",
+    "price": 420,
+    "rating": 4.4,
+    "combined_text": "OXO Tot Perfect Pull Wipes Dispenser diapering Compact wipes dispenser that dispenses one wipe at a time for clean, one-handed operation during diaper changes, fitting standard pack sizes and reducing mess on the changing table."
+  },
+  {
+    "id": 11,
+    "name": "Medela Freestyle Flex Double Electric Breast Pump",
+    "category": "feeding",
+    "description": "Hospital-grade double electric pump with app connectivity and a lightweight design, helping nursing mothers efficiently express milk whether at home or returning to work postpartum.",
+    "price": 4800,
+    "rating": 4.8,
+    "combined_text": "Medela Freestyle Flex Double Electric Breast Pump feeding Hospital-grade double electric pump with app connectivity and a lightweight design, helping nursing mothers efficiently express milk whether at home or returning to work postpartum."
+  },
+  {
+    "id": 12,
+    "name": "Dr. Brown's Natural Flow Anti-Colic Bottles 3-Pack",
+    "category": "feeding",
+    "description": "Clinically proven anti-colic bottles with a patented internal vent system that reduces gas, colic, and spit-up, making feeding time more comfortable for newborns and young infants.",
+    "price": 680,
+    "rating": 4.7,
+    "combined_text": "Dr. Brown's Natural Flow Anti-Colic Bottles 3-Pack feeding Clinically proven anti-colic bottles with a patented internal vent system that reduces gas, colic, and spit-up, making feeding time more comfortable for newborns and young infants."
+  },
+  {
+    "id": 13,
+    "name": "Philips Avent Manual Breast Pump",
+    "category": "feeding",
+    "description": "Soft, ergonomic manual breast pump designed for occasional pumping sessions, offering a comfortable massage cushion that mimics baby's natural sucking motion to stimulate milk flow.",
+    "price": 1200,
+    "rating": 4.5,
+    "combined_text": "Philips Avent Manual Breast Pump feeding Soft, ergonomic manual breast pump designed for occasional pumping sessions, offering a comfortable massage cushion that mimics baby's natural sucking motion to stimulate milk flow."
+  },
+  {
+    "id": 14,
+    "name": "Tommee Tippee Closer to Nature Bottle Warmer",
+    "category": "feeding",
+    "description": "Fast and even bottle warmer that heats breast milk and formula without creating hot spots, ensuring safe and consistent temperatures for every feeding session day or night.",
+    "price": 950,
+    "rating": 4.6,
+    "combined_text": "Tommee Tippee Closer to Nature Bottle Warmer feeding Fast and even bottle warmer that heats breast milk and formula without creating hot spots, ensuring safe and consistent temperatures for every feeding session day or night."
+  },
+  {
+    "id": 15,
+    "name": "NUK Learner Sippy Cup 5oz",
+    "category": "feeding",
+    "description": "Orthodontically designed transition sippy cup for babies aged six months and older, featuring a soft spout and easy-grip handles to support the progression from bottle to cup.",
+    "price": 220,
+    "rating": 4.3,
+    "combined_text": "NUK Learner Sippy Cup 5oz feeding Orthodontically designed transition sippy cup for babies aged six months and older, featuring a soft spout and easy-grip handles to support the progression from bottle to cup."
+  },
+  {
+    "id": 16,
+    "name": "Haakaa Gen 3 Silicone Breast Pump 160ml",
+    "category": "feeding",
+    "description": "Hands-free silicone pump that collects let-down milk from the opposite breast during nursing, helping mothers build a freezer stash effortlessly without any powered device.",
+    "price": 560,
+    "rating": 4.7,
+    "combined_text": "Haakaa Gen 3 Silicone Breast Pump 160ml feeding Hands-free silicone pump that collects let-down milk from the opposite breast during nursing, helping mothers build a freezer stash effortlessly without any powered device."
+  },
+  {
+    "id": 17,
+    "name": "Comotomo Natural Feel Baby Bottle 250ml",
+    "category": "feeding",
+    "description": "Skin-like silicone baby bottle designed to mimic breastfeeding, making it easier to transition between breast and bottle while reducing colic and nipple confusion in young infants.",
+    "price": 480,
+    "rating": 4.6,
+    "combined_text": "Comotomo Natural Feel Baby Bottle 250ml feeding Skin-like silicone baby bottle designed to mimic breastfeeding, making it easier to transition between breast and bottle while reducing colic and nipple confusion in young infants."
+  },
+  {
+    "id": 18,
+    "name": "Baby Brezza Formula Pro Advanced Dispenser",
+    "category": "feeding",
+    "description": "Automatically mixes and dispenses formula at the perfect temperature, eliminating manual scooping and mixing during late-night feeds, saving time and ensuring accurate preparation every time.",
+    "price": 4200,
+    "rating": 4.5,
+    "combined_text": "Baby Brezza Formula Pro Advanced Dispenser feeding Automatically mixes and dispenses formula at the perfect temperature, eliminating manual scooping and mixing during late-night feeds, saving time and ensuring accurate preparation every time."
+  },
+  {
+    "id": 19,
+    "name": "Lansinoh mOmma Breastmilk Storage Bags 100-Pack",
+    "category": "feeding",
+    "description": "Pre-sterilized, BPA-free milk storage bags with a double-seal zipper and lay-flat design for space-efficient freezer storage, essential for pumping mothers managing a milk supply.",
+    "price": 390,
+    "rating": 4.6,
+    "combined_text": "Lansinoh mOmma Breastmilk Storage Bags 100-Pack feeding Pre-sterilized, BPA-free milk storage bags with a double-seal zipper and lay-flat design for space-efficient freezer storage, essential for pumping mothers managing a milk supply."
+  },
+  {
+    "id": 20,
+    "name": "Chicco NaturalFit 2-Handle Trainer Cup",
+    "category": "feeding",
+    "description": "Spill-proof trainer cup with soft spout and two easy-grip handles for babies starting on solids, encouraging self-feeding and motor skill development from around six months of age.",
+    "price": 240,
+    "rating": 4.2,
+    "combined_text": "Chicco NaturalFit 2-Handle Trainer Cup feeding Spill-proof trainer cup with soft spout and two easy-grip handles for babies starting on solids, encouraging self-feeding and motor skill development from around six months of age."
+  },
+  {
+    "id": 21,
+    "name": "Ergobaby Embrace Newborn Carrier",
+    "category": "travel_gear",
+    "description": "Ultra-soft wrap-style carrier for newborns from 3.2 kg, offering close skin-to-skin contact that promotes bonding while keeping both hands free for daily tasks right from birth.",
+    "price": 2800,
+    "rating": 4.8,
+    "combined_text": "Ergobaby Embrace Newborn Carrier travel gear Ultra-soft wrap-style carrier for newborns from 3.2 kg, offering close skin-to-skin contact that promotes bonding while keeping both hands free for daily tasks right from birth."
+  },
+  {
+    "id": 22,
+    "name": "Maxi-Cosi Pebble 360 Rotating Car Seat",
+    "category": "travel_gear",
+    "description": "360-degree rotating infant car seat with one-hand recline and easy installation, making placing and removing a sleeping baby from the car safe and simple from birth to 13 kg.",
+    "price": 4900,
+    "rating": 4.7,
+    "combined_text": "Maxi-Cosi Pebble 360 Rotating Car Seat travel gear 360-degree rotating infant car seat with one-hand recline and easy installation, making placing and removing a sleeping baby from the car safe and simple from birth to 13 kg."
+  },
+  {
+    "id": 23,
+    "name": "UPPAbaby Vista V2 Stroller",
+    "category": "travel_gear",
+    "description": "Premium full-size stroller expandable to accommodate two children, featuring an oversized bassinet, large canopy, and one-step fold, ideal for daily city and park use from birth.",
+    "price": 4950,
+    "rating": 4.8,
+    "combined_text": "UPPAbaby Vista V2 Stroller travel gear Premium full-size stroller expandable to accommodate two children, featuring an oversized bassinet, large canopy, and one-step fold, ideal for daily city and park use from birth."
+  },
+  {
+    "id": 24,
+    "name": "Baby Trend Snap-N-Go EX Universal Stroller Frame",
+    "category": "travel_gear",
+    "description": "Lightweight universal stroller frame that snaps most infant car seats directly in, providing a compact and affordable travel system solution for families on the go.",
+    "price": 1100,
+    "rating": 4.4,
+    "combined_text": "Baby Trend Snap-N-Go EX Universal Stroller Frame travel gear Lightweight universal stroller frame that snaps most infant car seats directly in, providing a compact and affordable travel system solution for families on the go."
+  },
+  {
+    "id": 25,
+    "name": "Chicco KeyFit 35 Infant Car Seat",
+    "category": "travel_gear",
+    "description": "Top-rated infant car seat with a ReclineSure leveling foot, easy one-pull harness tightening, and a bubble level indicator for correct installation, keeping babies safe from birth.",
+    "price": 3200,
+    "rating": 4.9,
+    "combined_text": "Chicco KeyFit 35 Infant Car Seat travel gear Top-rated infant car seat with a ReclineSure leveling foot, easy one-pull harness tightening, and a bubble level indicator for correct installation, keeping babies safe from birth."
+  },
+  {
+    "id": 26,
+    "name": "LÍLLÉbaby Complete Airflow 6-Position Carrier",
+    "category": "travel_gear",
+    "description": "Six-position baby carrier with a breathable mesh panel that keeps both parent and baby cool, supporting newborns through toddlers and distributing weight ergonomically across the hips.",
+    "price": 2200,
+    "rating": 4.6,
+    "combined_text": "LÍLLÉbaby Complete Airflow 6-Position Carrier travel gear Six-position baby carrier with a breathable mesh panel that keeps both parent and baby cool, supporting newborns through toddlers and distributing weight ergonomically across the hips."
+  },
+  {
+    "id": 27,
+    "name": "Joovy Caboose Ultralight Graphite Sit-Stand Stroller",
+    "category": "travel_gear",
+    "description": "Tandem stroller with a sit-and-stand rear platform, accommodating a toddler who wants to stand or sit while the younger sibling rides in front, perfect for families with two young children.",
+    "price": 3600,
+    "rating": 4.5,
+    "combined_text": "Joovy Caboose Ultralight Graphite Sit-Stand Stroller travel gear Tandem stroller with a sit-and-stand rear platform, accommodating a toddler who wants to stand or sit while the younger sibling rides in front, perfect for families with two young children."
+  },
+  {
+    "id": 28,
+    "name": "Graco Modes Click Connect Travel System",
+    "category": "travel_gear",
+    "description": "All-in-one travel system including a multi-mode stroller and compatible infant car seat, offering ten riding positions and converting from an infant seat to a toddler stroller seamlessly.",
+    "price": 3800,
+    "rating": 4.6,
+    "combined_text": "Graco Modes Click Connect Travel System travel gear All-in-one travel system including a multi-mode stroller and compatible infant car seat, offering ten riding positions and converting from an infant seat to a toddler stroller seamlessly."
+  },
+  {
+    "id": 29,
+    "name": "Brica Gold Fold Sport Travel Stroller",
+    "category": "travel_gear",
+    "description": "Compact and lightweight umbrella stroller that folds to carry-on luggage size, perfect for air travel and quick city trips with toddlers who no longer need a full-size stroller.",
+    "price": 1500,
+    "rating": 4.3,
+    "combined_text": "Brica Gold Fold Sport Travel Stroller travel gear Compact and lightweight umbrella stroller that folds to carry-on luggage size, perfect for air travel and quick city trips with toddlers who no longer need a full-size stroller."
+  },
+  {
+    "id": 30,
+    "name": "BabyBjörn Bouncer Bliss Mesh",
+    "category": "travel_gear",
+    "description": "Ergonomic baby bouncer in breathable 3D mesh fabric that rocks with the baby's own movements, providing a safe resting and play spot for newborns up to about two years of age.",
+    "price": 2600,
+    "rating": 4.7,
+    "combined_text": "BabyBjörn Bouncer Bliss Mesh travel gear Ergonomic baby bouncer in breathable 3D mesh fabric that rocks with the baby's own movements, providing a safe resting and play spot for newborns up to about two years of age."
+  },
+  {
+    "id": 31,
+    "name": "Belly Bandit Original Postpartum Belly Wrap",
+    "category": "maternity_care",
+    "description": "Postpartum compression wrap that supports the abdomen after vaginal or C-section delivery, helping the uterus contract and providing core stabilization during the early recovery weeks.",
+    "price": 1400,
+    "rating": 4.5,
+    "combined_text": "Belly Bandit Original Postpartum Belly Wrap maternity care Postpartum compression wrap that supports the abdomen after vaginal or C-section delivery, helping the uterus contract and providing core stabilization during the early recovery weeks."
+  },
+  {
+    "id": 32,
+    "name": "Leachco Snoogle Total Body Pillow",
+    "category": "maternity_care",
+    "description": "Full-length C-shaped pregnancy pillow that supports the back, hips, and growing belly simultaneously, improving sleep quality and relieving discomfort throughout the second and third trimesters.",
+    "price": 1800,
+    "rating": 4.8,
+    "combined_text": "Leachco Snoogle Total Body Pillow maternity care Full-length C-shaped pregnancy pillow that supports the back, hips, and growing belly simultaneously, improving sleep quality and relieving discomfort throughout the second and third trimesters."
+  },
+  {
+    "id": 33,
+    "name": "Mama Mio Tummy Rub Butter 120ml",
+    "category": "maternity_care",
+    "description": "Intensive stretch mark butter enriched with omega oils and shea butter, designed to be massaged onto the growing bump during pregnancy to maintain skin elasticity and reduce scarring.",
+    "price": 780,
+    "rating": 4.6,
+    "combined_text": "Mama Mio Tummy Rub Butter 120ml maternity care Intensive stretch mark butter enriched with omega oils and shea butter, designed to be massaged onto the growing bump during pregnancy to maintain skin elasticity and reduce scarring."
+  },
+  {
+    "id": 34,
+    "name": "Gabrialla Elastic Maternity Support Belt",
+    "category": "maternity_care",
+    "description": "Adjustable maternity belt providing gentle lift to the belly and lumbar support, reducing lower back and pelvic pain during the third trimester when walking, standing, or doing light activity.",
+    "price": 620,
+    "rating": 4.4,
+    "combined_text": "Gabrialla Elastic Maternity Support Belt maternity care Adjustable maternity belt providing gentle lift to the belly and lumbar support, reducing lower back and pelvic pain during the third trimester when walking, standing, or doing light activity."
+  },
+  {
+    "id": 35,
+    "name": "Frida Mom Postpartum Recovery Kit",
+    "category": "maternity_care",
+    "description": "Complete postpartum care kit including peri bottle, mesh underwear, pad liners, and cooling pads, designed to ease perineal recovery and discomfort in the days following childbirth.",
+    "price": 960,
+    "rating": 4.7,
+    "combined_text": "Frida Mom Postpartum Recovery Kit maternity care Complete postpartum care kit including peri bottle, mesh underwear, pad liners, and cooling pads, designed to ease perineal recovery and discomfort in the days following childbirth."
+  },
+  {
+    "id": 36,
+    "name": "Earth Mama Organic Nipple Butter 60ml",
+    "category": "maternity_care",
+    "description": "USDA-certified organic nipple cream safe for nursing mothers and babies, soothing cracked and sore nipples without needing to wash off before breastfeeding, supporting a comfortable nursing journey.",
+    "price": 420,
+    "rating": 4.8,
+    "combined_text": "Earth Mama Organic Nipple Butter 60ml maternity care USDA-certified organic nipple cream safe for nursing mothers and babies, soothing cracked and sore nipples without needing to wash off before breastfeeding, supporting a comfortable nursing journey."
+  },
+  {
+    "id": 37,
+    "name": "Theraline Original Maternity Nursing Pillow",
+    "category": "maternity_care",
+    "description": "Versatile U-shaped pillow used during pregnancy for side sleeping and postpartum as a nursing support cushion, filled with micro-beads for flexible contouring and lasting comfort.",
+    "price": 2200,
+    "rating": 4.7,
+    "combined_text": "Theraline Original Maternity Nursing Pillow maternity care Versatile U-shaped pillow used during pregnancy for side sleeping and postpartum as a nursing support cushion, filled with micro-beads for flexible contouring and lasting comfort."
+  },
+  {
+    "id": 38,
+    "name": "Motherlove Nipple Cream 29ml",
+    "category": "maternity_care",
+    "description": "USDA-certified organic nipple cream made with herbs and lanolin-free ingredients, providing fast relief for tender nipples during the early days of breastfeeding without harming the baby.",
+    "price": 350,
+    "rating": 4.5,
+    "combined_text": "Motherlove Nipple Cream 29ml maternity care USDA-certified organic nipple cream made with herbs and lanolin-free ingredients, providing fast relief for tender nipples during the early days of breastfeeding without harming the baby."
+  },
+  {
+    "id": 39,
+    "name": "Pink Stork Total Prenatal Tea Bundle",
+    "category": "maternity_care",
+    "description": "Organic herbal tea bundle supporting prenatal wellness by easing nausea, bloating, and stress during pregnancy, naturally formulated with ginger, peppermint, and raspberry leaf.",
+    "price": 540,
+    "rating": 4.4,
+    "combined_text": "Pink Stork Total Prenatal Tea Bundle maternity care Organic herbal tea bundle supporting prenatal wellness by easing nausea, bloating, and stress during pregnancy, naturally formulated with ginger, peppermint, and raspberry leaf."
+  },
+  {
+    "id": 40,
+    "name": "Burt's Bees Mama Bee Leg & Foot Cream",
+    "category": "maternity_care",
+    "description": "Richly moisturizing cream that relieves tired and swollen legs and feet during the third trimester, made with natural peppermint and coconut oil to soothe aching limbs and reduce puffiness.",
+    "price": 310,
+    "rating": 4.3,
+    "combined_text": "Burt's Bees Mama Bee Leg & Foot Cream maternity care Richly moisturizing cream that relieves tired and swollen legs and feet during the third trimester, made with natural peppermint and coconut oil to soothe aching limbs and reduce puffiness."
+  },
+  {
+    "id": 41,
+    "name": "SNOO Smart Sleeper Bassinet",
+    "category": "nursery_sleep",
+    "description": "Revolutionary smart bassinet with built-in sound and motion response that automatically soothes a fussing newborn back to sleep, helping both baby and parents get more restful nights from birth.",
+    "price": 4999,
+    "rating": 4.9,
+    "combined_text": "SNOO Smart Sleeper Bassinet nursery sleep Revolutionary smart bassinet with built-in sound and motion response that automatically soothes a fussing newborn back to sleep, helping both baby and parents get more restful nights from birth."
+  },
+  {
+    "id": 42,
+    "name": "Graco Pack 'n Play On the Go Playard",
+    "category": "nursery_sleep",
+    "description": "Portable playyard and bassinet in one, ideal for travel and guest rooms, featuring a push-button fold, full-size mattress pad, and a removable newborn napper insert for the early months.",
+    "price": 1600,
+    "rating": 4.6,
+    "combined_text": "Graco Pack 'n Play On the Go Playard nursery sleep Portable playyard and bassinet in one, ideal for travel and guest rooms, featuring a push-button fold, full-size mattress pad, and a removable newborn napper insert for the early months."
+  },
+  {
+    "id": 43,
+    "name": "Newton Baby Crib Mattress Wovenaire",
+    "category": "nursery_sleep",
+    "description": "First-of-its-kind 100% breathable and washable crib mattress made with Wovenaire core, reducing suffocation risk while meeting pediatric safety standards for newborns through toddlers.",
+    "price": 3200,
+    "rating": 4.8,
+    "combined_text": "Newton Baby Crib Mattress Wovenaire nursery sleep First-of-its-kind 100% breathable and washable crib mattress made with Wovenaire core, reducing suffocation risk while meeting pediatric safety standards for newborns through toddlers."
+  },
+  {
+    "id": 44,
+    "name": "Aden + Anais Classic Muslin Swaddle Blankets 4-Pack",
+    "category": "nursery_sleep",
+    "description": "Soft and breathable muslin swaddle blankets that grow with the baby from swaddling newborns to using as lightweight stroller covers, nursing covers, and play mats through the infant stage.",
+    "price": 760,
+    "rating": 4.7,
+    "combined_text": "Aden + Anais Classic Muslin Swaddle Blankets 4-Pack nursery sleep Soft and breathable muslin swaddle blankets that grow with the baby from swaddling newborns to using as lightweight stroller covers, nursing covers, and play mats through the infant stage."
+  },
+  {
+    "id": 45,
+    "name": "Halo Bassinest Swivel Sleeper",
+    "category": "nursery_sleep",
+    "description": "Bedside bassinet that swivels 360 degrees and lowers for easy access during night feeds, allowing safe co-sleeping proximity without bed-sharing risks from birth to around five months.",
+    "price": 2800,
+    "rating": 4.7,
+    "combined_text": "Halo Bassinest Swivel Sleeper nursery sleep Bedside bassinet that swivels 360 degrees and lowers for easy access during night feeds, allowing safe co-sleeping proximity without bed-sharing risks from birth to around five months."
+  },
+  {
+    "id": 46,
+    "name": "Crane Drop Ultrasonic Cool Mist Humidifier",
+    "category": "nursery_sleep",
+    "description": "Whisper-quiet nursery humidifier running up to 24 hours per fill, adding essential moisture to dry air to help babies breathe easier during sleep, especially during cold and flu season.",
+    "price": 1100,
+    "rating": 4.5,
+    "combined_text": "Crane Drop Ultrasonic Cool Mist Humidifier nursery sleep Whisper-quiet nursery humidifier running up to 24 hours per fill, adding essential moisture to dry air to help babies breathe easier during sleep, especially during cold and flu season."
+  },
+  {
+    "id": 47,
+    "name": "Pottery Barn Kids Convertible Crib",
+    "category": "nursery_sleep",
+    "description": "Solid wood crib that converts from bassinet to crib to toddler bed and full-size bed, offering long-term value and a timeless nursery aesthetic that grows with the child for years.",
+    "price": 4500,
+    "rating": 4.6,
+    "combined_text": "Pottery Barn Kids Convertible Crib nursery sleep Solid wood crib that converts from bassinet to crib to toddler bed and full-size bed, offering long-term value and a timeless nursery aesthetic that grows with the child for years."
+  },
+  {
+    "id": 48,
+    "name": "DockATot Deluxe+ Dock Multifunctional Baby Lounger",
+    "category": "nursery_sleep",
+    "description": "Cozy multi-use lounger ideal for supervised daytime naps, tummy time, and lounging, featuring breathable fabric sides and snug bumper design for comfortable positioning from 0 to 8 months.",
+    "price": 2200,
+    "rating": 4.6,
+    "combined_text": "DockATot Deluxe+ Dock Multifunctional Baby Lounger nursery sleep Cozy multi-use lounger ideal for supervised daytime naps, tummy time, and lounging, featuring breathable fabric sides and snug bumper design for comfortable positioning from 0 to 8 months."
+  },
+  {
+    "id": 49,
+    "name": "Munchkin White Hot Safety Bath Ducky",
+    "category": "bath_skincare",
+    "description": "Bath duck with a heat-sensitive bottom that turns white when water exceeds a safe temperature, offering a simple and visual way to prevent accidental scalding during newborn bath time.",
+    "price": 200,
+    "rating": 4.5,
+    "combined_text": "Munchkin White Hot Safety Bath Ducky bath skincare Bath duck with a heat-sensitive bottom that turns white when water exceeds a safe temperature, offering a simple and visual way to prevent accidental scalding during newborn bath time."
+  },
+  {
+    "id": 50,
+    "name": "Summer Infant Slumber Buddies Projection Mobile",
+    "category": "nursery_sleep",
+    "description": "Crib mobile with a built-in projector that displays stars and nature scenes on the ceiling while playing soothing sounds, helping babies relax and fall asleep independently at bedtime.",
+    "price": 980,
+    "rating": 4.4,
+    "combined_text": "Summer Infant Slumber Buddies Projection Mobile nursery sleep Crib mobile with a built-in projector that displays stars and nature scenes on the ceiling while playing soothing sounds, helping babies relax and fall asleep independently at bedtime."
+  },
+  {
+    "id": 51,
+    "name": "Carter's 3-Piece Newborn Layette Set",
+    "category": "clothing",
+    "description": "Soft cotton three-piece set including a bodysuit, footed pant, and cap, perfect as a first outfit for newborns fresh from the hospital, available in gentle pastel colors with snap closures.",
+    "price": 380,
+    "rating": 4.6,
+    "combined_text": "Carter's 3-Piece Newborn Layette Set clothing Soft cotton three-piece set including a bodysuit, footed pant, and cap, perfect as a first outfit for newborns fresh from the hospital, available in gentle pastel colors with snap closures."
+  },
+  {
+    "id": 52,
+    "name": "Burt's Bees Baby Organic Footed Pajamas",
+    "category": "clothing",
+    "description": "Certified organic cotton footed sleeper with a two-way zipper for easy nighttime diaper changes, keeping baby warm and snug while avoiding irritating chemicals close to delicate skin.",
+    "price": 440,
+    "rating": 4.7,
+    "combined_text": "Burt's Bees Baby Organic Footed Pajamas clothing Certified organic cotton footed sleeper with a two-way zipper for easy nighttime diaper changes, keeping baby warm and snug while avoiding irritating chemicals close to delicate skin."
+  },
+  {
+    "id": 53,
+    "name": "H&M Mama Organic Cotton Nursing Dress",
+    "category": "clothing",
+    "description": "Flowing maternity and nursing dress made from GOTS-certified organic cotton with discreet double-layer nursing access, comfortable enough for daily wear during pregnancy and postpartum.",
+    "price": 590,
+    "rating": 4.4,
+    "combined_text": "H&M Mama Organic Cotton Nursing Dress clothing Flowing maternity and nursing dress made from GOTS-certified organic cotton with discreet double-layer nursing access, comfortable enough for daily wear during pregnancy and postpartum."
+  },
+  {
+    "id": 54,
+    "name": "Seraphine Classic Maternity Jeans",
+    "category": "clothing",
+    "description": "Stretchy over-belly maternity jeans with a soft supportive panel that grows with the bump, offering the look of regular jeans with the comfort needed throughout the second and third trimesters.",
+    "price": 1350,
+    "rating": 4.5,
+    "combined_text": "Seraphine Classic Maternity Jeans clothing Stretchy over-belly maternity jeans with a soft supportive panel that grows with the bump, offering the look of regular jeans with the comfort needed throughout the second and third trimesters."
+  },
+  {
+    "id": 55,
+    "name": "Bonds Baby Wondersuit Long-Sleeve Coverall",
+    "category": "clothing",
+    "description": "Snug stretch cotton coverall in a zip-up design with fold-over cuffs that double as scratch mitts for newborns, offering full-body warmth and easy dressing for everyday use.",
+    "price": 320,
+    "rating": 4.6,
+    "combined_text": "Bonds Baby Wondersuit Long-Sleeve Coverall clothing Snug stretch cotton coverall in a zip-up design with fold-over cuffs that double as scratch mitts for newborns, offering full-body warmth and easy dressing for everyday use."
+  },
+  {
+    "id": 56,
+    "name": "Gerber Baby 8-Pack Side-Snap Onesies",
+    "category": "clothing",
+    "description": "Value pack of cotton short-sleeve onesies with side-snap closures ideal for newborns who need frequent diaper changes and outfit swaps, gentle on umbilical cord and post-delivery sensitive skin.",
+    "price": 480,
+    "rating": 4.5,
+    "combined_text": "Gerber Baby 8-Pack Side-Snap Onesies clothing Value pack of cotton short-sleeve onesies with side-snap closures ideal for newborns who need frequent diaper changes and outfit swaps, gentle on umbilical cord and post-delivery sensitive skin."
+  },
+  {
+    "id": 57,
+    "name": "Zara Mama Ribbed Maternity Lounge Set",
+    "category": "clothing",
+    "description": "Soft ribbed-knit two-piece set with elasticated waistband trousers and a fitted long-sleeve top, providing relaxed maternity comfort at home during pregnancy or early postpartum recovery.",
+    "price": 760,
+    "rating": 4.3,
+    "combined_text": "Zara Mama Ribbed Maternity Lounge Set clothing Soft ribbed-knit two-piece set with elasticated waistband trousers and a fitted long-sleeve top, providing relaxed maternity comfort at home during pregnancy or early postpartum recovery."
+  },
+  {
+    "id": 58,
+    "name": "Magnificent Baby Magnetic Baby Gown",
+    "category": "clothing",
+    "description": "Innovative newborn gown with magnetic closures instead of snaps or zippers, making nighttime diaper changes in the dark incredibly fast and stress-free without waking the baby.",
+    "price": 560,
+    "rating": 4.8,
+    "combined_text": "Magnificent Baby Magnetic Baby Gown clothing Innovative newborn gown with magnetic closures instead of snaps or zippers, making nighttime diaper changes in the dark incredibly fast and stress-free without waking the baby."
+  },
+  {
+    "id": 59,
+    "name": "Mini Rodini Organic Printed Baby Romper",
+    "category": "clothing",
+    "description": "GOTS-certified organic cotton romper with a fun illustrated print and envelope neckline, a stylish yet practical choice for active daytime play from three to twelve months of age.",
+    "price": 820,
+    "rating": 4.4,
+    "combined_text": "Mini Rodini Organic Printed Baby Romper clothing GOTS-certified organic cotton romper with a fun illustrated print and envelope neckline, a stylish yet practical choice for active daytime play from three to twelve months of age."
+  },
+  {
+    "id": 60,
+    "name": "Mothercare Fleece Pramsuit 0-3 Months",
+    "category": "clothing",
+    "description": "Cozy full-body fleece all-in-one suit with a zip front and fold-over mittens, keeping newborns warm during cool-weather outings in a pram or carrier from the very first weeks of life.",
+    "price": 410,
+    "rating": 4.4,
+    "combined_text": "Mothercare Fleece Pramsuit 0-3 Months clothing Cozy full-body fleece all-in-one suit with a zip front and fold-over mittens, keeping newborns warm during cool-weather outings in a pram or carrier from the very first weeks of life."
+  },
+  {
+    "id": 61,
+    "name": "Johnson's Cottontouch Newborn Head-to-Toe Wash",
+    "category": "bath_skincare",
+    "description": "Ultra-gentle baby wash and shampoo formulated with real cotton for sensitive newborn skin, cleansing softly without drying out delicate skin during the first few months of daily bathing.",
+    "price": 260,
+    "rating": 4.6,
+    "combined_text": "Johnson's Cottontouch Newborn Head-to-Toe Wash bath skincare Ultra-gentle baby wash and shampoo formulated with real cotton for sensitive newborn skin, cleansing softly without drying out delicate skin during the first few months of daily bathing."
+  },
+  {
+    "id": 62,
+    "name": "Angelcare Soft Touch Baby Bath Support",
+    "category": "bath_skincare",
+    "description": "Ergonomic mesh bath support that cradles newborns safely in the tub at a comfortable angle, keeping both hands free for washing while providing full body support during early bath time.",
+    "price": 620,
+    "rating": 4.5,
+    "combined_text": "Angelcare Soft Touch Baby Bath Support bath skincare Ergonomic mesh bath support that cradles newborns safely in the tub at a comfortable angle, keeping both hands free for washing while providing full body support during early bath time."
+  },
+  {
+    "id": 63,
+    "name": "Cetaphil Baby Daily Lotion with Organic Calendula",
+    "category": "bath_skincare",
+    "description": "Lightweight daily moisturizer with organic calendula that soothes and hydrates sensitive baby skin after every bath, clinically proven to be hypoallergenic and free from parabens and colorants.",
+    "price": 340,
+    "rating": 4.7,
+    "combined_text": "Cetaphil Baby Daily Lotion with Organic Calendula bath skincare Lightweight daily moisturizer with organic calendula that soothes and hydrates sensitive baby skin after every bath, clinically proven to be hypoallergenic and free from parabens and colorants."
+  },
+  {
+    "id": 64,
+    "name": "Stokke Flexi Bath Foldable Baby Bathtub",
+    "category": "bath_skincare",
+    "description": "Collapsible baby bathtub with an anti-slip base that folds flat for easy storage and travel, suitable from birth with a newborn insert through toddlerhood, fitting most bathroom sinks.",
+    "price": 980,
+    "rating": 4.7,
+    "combined_text": "Stokke Flexi Bath Foldable Baby Bathtub bath skincare Collapsible baby bathtub with an anti-slip base that folds flat for easy storage and travel, suitable from birth with a newborn insert through toddlerhood, fitting most bathroom sinks."
+  },
+  {
+    "id": 65,
+    "name": "Mustela Stelatopia Emollient Baby Cream 150ml",
+    "category": "bath_skincare",
+    "description": "Dermatologist-recommended emollient cream for eczema-prone baby skin, instantly soothing dry, itchy patches while reinforcing the skin's natural moisture barrier from the newborn stage onward.",
+    "price": 780,
+    "rating": 4.8,
+    "combined_text": "Mustela Stelatopia Emollient Baby Cream 150ml bath skincare Dermatologist-recommended emollient cream for eczema-prone baby skin, instantly soothing dry, itchy patches while reinforcing the skin's natural moisture barrier from the newborn stage onward."
+  },
+  {
+    "id": 66,
+    "name": "Baby Frida 3-Step Grooming Kit",
+    "category": "bath_skincare",
+    "description": "Compact grooming kit with a nail file, brush, and NoseFrida snot sucker, covering essential hygiene care for newborns with ergonomic tools designed for tiny fingers, nails, and nasal passages.",
+    "price": 520,
+    "rating": 4.6,
+    "combined_text": "Baby Frida 3-Step Grooming Kit bath skincare Compact grooming kit with a nail file, brush, and NoseFrida snot sucker, covering essential hygiene care for newborns with ergonomic tools designed for tiny fingers, nails, and nasal passages."
+  },
+  {
+    "id": 67,
+    "name": "CeraVe Baby Moisturizing Lotion 237ml",
+    "category": "bath_skincare",
+    "description": "Fragrance-free daily moisturizer with ceramides and hyaluronic acid, strengthening the natural skin barrier for newborns and infants prone to dryness, eczema, or sensitivity year-round.",
+    "price": 420,
+    "rating": 4.7,
+    "combined_text": "CeraVe Baby Moisturizing Lotion 237ml bath skincare Fragrance-free daily moisturizer with ceramides and hyaluronic acid, strengthening the natural skin barrier for newborns and infants prone to dryness, eczema, or sensitivity year-round."
+  },
+  {
+    "id": 68,
+    "name": "Primo Eurobath Baby Bathtub",
+    "category": "bath_skincare",
+    "description": "Spacious contoured bathtub with built-in reclining seat for newborns and a flat surface on the opposite end for older babies to sit, accommodating two growth stages in a single tub.",
+    "price": 750,
+    "rating": 4.4,
+    "combined_text": "Primo Eurobath Baby Bathtub bath skincare Spacious contoured bathtub with built-in reclining seat for newborns and a flat surface on the opposite end for older babies to sit, accommodating two growth stages in a single tub."
+  },
+  {
+    "id": 69,
+    "name": "Burt's Bees Baby Bee Shampoo & Wash 210ml",
+    "category": "bath_skincare",
+    "description": "Tear-free, pediatrician-tested baby wash and shampoo with natural ingredients including buttermilk, leaving hair soft and skin clean without harsh sulfates during bath time routines.",
+    "price": 290,
+    "rating": 4.5,
+    "combined_text": "Burt's Bees Baby Bee Shampoo & Wash 210ml bath skincare Tear-free, pediatrician-tested baby wash and shampoo with natural ingredients including buttermilk, leaving hair soft and skin clean without harsh sulfates during bath time routines."
+  },
+  {
+    "id": 70,
+    "name": "Summer Infant Fold Away Baby Bather",
+    "category": "bath_skincare",
+    "description": "Lightweight mesh baby bather that folds flat and hangs to dry after use, providing a comfortable reclined position for newborns during bath time in any standard sink or bathtub.",
+    "price": 480,
+    "rating": 4.3,
+    "combined_text": "Summer Infant Fold Away Baby Bather bath skincare Lightweight mesh baby bather that folds flat and hangs to dry after use, providing a comfortable reclined position for newborns during bath time in any standard sink or bathtub."
+  },
+  {
+    "id": 71,
+    "name": "Braun ThermoScan 7 Ear Thermometer IRT6520",
+    "category": "health_safety",
+    "description": "Clinically accurate in-ear thermometer with pre-warmed tip and ExacTemp positioning system, giving precise readings in one second to monitor fever quickly in newborns, infants, and toddlers.",
+    "price": 1650,
+    "rating": 4.8,
+    "combined_text": "Braun ThermoScan 7 Ear Thermometer IRT6520 health safety Clinically accurate in-ear thermometer with pre-warmed tip and ExacTemp positioning system, giving precise readings in one second to monitor fever quickly in newborns, infants, and toddlers."
+  },
+  {
+    "id": 72,
+    "name": "Baby Trend Secure Mount Lockdown Car Seat Base",
+    "category": "health_safety",
+    "description": "Universal infant car seat base with a level indicator and lockdown safety mechanism, ensuring a secure and correct car seat installation every time for newborn travel safety.",
+    "price": 960,
+    "rating": 4.5,
+    "combined_text": "Baby Trend Secure Mount Lockdown Car Seat Base health safety Universal infant car seat base with a level indicator and lockdown safety mechanism, ensuring a secure and correct car seat installation every time for newborn travel safety."
+  },
+  {
+    "id": 73,
+    "name": "Safety 1st Magnetic Cabinet Locks 8-Pack",
+    "category": "health_safety",
+    "description": "Tool-free magnetic cabinet and drawer locks that open with a magnetic key, keeping curious toddlers away from hazardous kitchen and bathroom contents during the exploratory crawling and walking stages.",
+    "price": 480,
+    "rating": 4.6,
+    "combined_text": "Safety 1st Magnetic Cabinet Locks 8-Pack health safety Tool-free magnetic cabinet and drawer locks that open with a magnetic key, keeping curious toddlers away from hazardous kitchen and bathroom contents during the exploratory crawling and walking stages."
+  },
+  {
+    "id": 74,
+    "name": "Owlet Smart Sock 3 Baby Monitor",
+    "category": "health_safety",
+    "description": "Wearable smart sock that tracks a sleeping baby's heart rate and oxygen levels, sending smartphone alerts if readings leave normal ranges, offering parents peace of mind during overnight sleep.",
+    "price": 4200,
+    "rating": 4.6,
+    "combined_text": "Owlet Smart Sock 3 Baby Monitor health safety Wearable smart sock that tracks a sleeping baby's heart rate and oxygen levels, sending smartphone alerts if readings leave normal ranges, offering parents peace of mind during overnight sleep."
+  },
+  {
+    "id": 75,
+    "name": "Dreambaby Stair Gate Pressure Fit Extra Wide",
+    "category": "health_safety",
+    "description": "Pressure-mounted stair gate with one-handed operation and a walk-through design, providing a reliable safety barrier at stairways and room doorways once babies start crawling and cruising.",
+    "price": 1100,
+    "rating": 4.5,
+    "combined_text": "Dreambaby Stair Gate Pressure Fit Extra Wide health safety Pressure-mounted stair gate with one-handed operation and a walk-through design, providing a reliable safety barrier at stairways and room doorways once babies start crawling and cruising."
+  },
+  {
+    "id": 76,
+    "name": "Fridababy NoseFrida Snot Sucker Nasal Aspirator",
+    "category": "health_safety",
+    "description": "Pediatrician-recommended nasal aspirator using gentle suction to clear blocked infant nasal passages, with a hygiene filter preventing mucus transfer, essential during cold and allergy season.",
+    "price": 310,
+    "rating": 4.7,
+    "combined_text": "Fridababy NoseFrida Snot Sucker Nasal Aspirator health safety Pediatrician-recommended nasal aspirator using gentle suction to clear blocked infant nasal passages, with a hygiene filter preventing mucus transfer, essential during cold and allergy season."
+  },
+  {
+    "id": 77,
+    "name": "Safety 1st Complete Baby Proofing Kit 25-Piece",
+    "category": "health_safety",
+    "description": "Comprehensive baby-proofing kit with outlet covers, corner guards, cabinet latches, and door pinch guards, providing whole-home protection as mobile babies begin exploring every room.",
+    "price": 680,
+    "rating": 4.4,
+    "combined_text": "Safety 1st Complete Baby Proofing Kit 25-Piece health safety Comprehensive baby-proofing kit with outlet covers, corner guards, cabinet latches, and door pinch guards, providing whole-home protection as mobile babies begin exploring every room."
+  },
+  {
+    "id": 78,
+    "name": "Nanit Plus Smart Baby Monitor with Breathing Wear",
+    "category": "health_safety",
+    "description": "HD overhead baby monitor with breathing motion tracking, sleep analytics, and two-way audio, giving parents a full picture of infant sleep quality from a secure smartphone app.",
+    "price": 3800,
+    "rating": 4.7,
+    "combined_text": "Nanit Plus Smart Baby Monitor with Breathing Wear health safety HD overhead baby monitor with breathing motion tracking, sleep analytics, and two-way audio, giving parents a full picture of infant sleep quality from a secure smartphone app."
+  },
+  {
+    "id": 79,
+    "name": "Tommee Tippee Digital Room Thermometer",
+    "category": "health_safety",
+    "description": "Simple nursery thermometer with a color-coded zone indicator showing ideal room temperature for safe infant sleep, helping parents maintain the recommended 16–20°C environment nightly.",
+    "price": 280,
+    "rating": 4.4,
+    "combined_text": "Tommee Tippee Digital Room Thermometer health safety Simple nursery thermometer with a color-coded zone indicator showing ideal room temperature for safe infant sleep, helping parents maintain the recommended 16–20°C environment nightly."
+  },
+  {
+    "id": 80,
+    "name": "Infantino Flip 4-in-1 Convertible Carrier",
+    "category": "travel_gear",
+    "description": "Affordable four-in-one carrier supporting front inward, front outward, hip, and back carry positions, suitable from 3.6 to 14.5 kg with adjustable seat and lumbar support for comfort.",
+    "price": 870,
+    "rating": 4.4,
+    "combined_text": "Infantino Flip 4-in-1 Convertible Carrier travel gear Affordable four-in-one carrier supporting front inward, front outward, hip, and back carry positions, suitable from 3.6 to 14.5 kg with adjustable seat and lumbar support for comfort."
+  },
+  {
+    "id": 81,
+    "name": "Fisher-Price Kick & Play Piano Gym",
+    "category": "toys_development",
+    "description": "Five-sided activity gym with a piano keyboard babies activate by kicking, encouraging tummy time, back play, and seated activity while building motor skills and cause-and-effect understanding from birth.",
+    "price": 1350,
+    "rating": 4.7,
+    "combined_text": "Fisher-Price Kick & Play Piano Gym toys development Five-sided activity gym with a piano keyboard babies activate by kicking, encouraging tummy time, back play, and seated activity while building motor skills and cause-and-effect understanding from birth."
+  },
+  {
+    "id": 82,
+    "name": "Manhattan Toy Winkel Rattle & Sensory Teether",
+    "category": "toys_development",
+    "description": "Colorful plastic rattle and teether with easy-to-grasp loops, cooling surfaces for sore gums, and a gentle rattle sound that encourages sensory exploration and hand-eye coordination from three months.",
+    "price": 380,
+    "rating": 4.6,
+    "combined_text": "Manhattan Toy Winkel Rattle & Sensory Teether toys development Colorful plastic rattle and teether with easy-to-grasp loops, cooling surfaces for sore gums, and a gentle rattle sound that encourages sensory exploration and hand-eye coordination from three months."
+  },
+  {
+    "id": 83,
+    "name": "Lovevery The Play Gym Developmental Mat",
+    "category": "toys_development",
+    "description": "Stage-based activity gym with Montessori-inspired toys and developmental activities tailored to each week of growth, stimulating vision, hearing, and motor development from birth to twelve months.",
+    "price": 3200,
+    "rating": 4.9,
+    "combined_text": "Lovevery The Play Gym Developmental Mat toys development Stage-based activity gym with Montessori-inspired toys and developmental activities tailored to each week of growth, stimulating vision, hearing, and motor development from birth to twelve months."
+  },
+  {
+    "id": 84,
+    "name": "VTech Sit-to-Stand Learning Walker",
+    "category": "toys_development",
+    "description": "Interactive push walker with a removable activity panel featuring piano keys, gears, and shape sorters, supporting babies transitioning from standing to independent walking while building vocabulary.",
+    "price": 1450,
+    "rating": 4.7,
+    "combined_text": "VTech Sit-to-Stand Learning Walker toys development Interactive push walker with a removable activity panel featuring piano keys, gears, and shape sorters, supporting babies transitioning from standing to independent walking while building vocabulary."
+  },
+  {
+    "id": 85,
+    "name": "Infantino Explore & Discover Soft Book Set",
+    "category": "toys_development",
+    "description": "Set of crinkle-textured, high-contrast soft books introducing colors, shapes, animals, and simple words, ideal for newborn visual stimulation and early language engagement during tummy time.",
+    "price": 290,
+    "rating": 4.5,
+    "combined_text": "Infantino Explore & Discover Soft Book Set toys development Set of crinkle-textured, high-contrast soft books introducing colors, shapes, animals, and simple words, ideal for newborn visual stimulation and early language engagement during tummy time."
+  },
+  {
+    "id": 86,
+    "name": "Melissa & Doug Wooden Shape Sorting Cube",
+    "category": "toys_development",
+    "description": "Classic wooden shape sorter with nine different pieces encouraging problem-solving, hand-eye coordination, and recognition of shapes and colors, suitable for toddlers from twelve months onward.",
+    "price": 650,
+    "rating": 4.6,
+    "combined_text": "Melissa & Doug Wooden Shape Sorting Cube toys development Classic wooden shape sorter with nine different pieces encouraging problem-solving, hand-eye coordination, and recognition of shapes and colors, suitable for toddlers from twelve months onward."
+  },
+  {
+    "id": 87,
+    "name": "B. Toys Battat Musical Stacker Rings",
+    "category": "toys_development",
+    "description": "Colorful ring stacking toy with a base that plays music when rings are stacked correctly, reinforcing size sequencing, color learning, and fine motor control for babies from six months.",
+    "price": 420,
+    "rating": 4.5,
+    "combined_text": "B. Toys Battat Musical Stacker Rings toys development Colorful ring stacking toy with a base that plays music when rings are stacked correctly, reinforcing size sequencing, color learning, and fine motor control for babies from six months."
+  },
+  {
+    "id": 88,
+    "name": "LeapFrog Interactive World Map Floor Puzzle",
+    "category": "toys_development",
+    "description": "Giant foam floor puzzle teaching continents, oceans, animals, and capitals through play, sparking geographic curiosity and language development in toddlers from eighteen months to four years.",
+    "price": 780,
+    "rating": 4.4,
+    "combined_text": "LeapFrog Interactive World Map Floor Puzzle toys development Giant foam floor puzzle teaching continents, oceans, animals, and capitals through play, sparking geographic curiosity and language development in toddlers from eighteen months to four years."
+  },
+  {
+    "id": 89,
+    "name": "Oball Classic Ball 4-Inch",
+    "category": "toys_development",
+    "description": "Lightweight, flexible open-weave ball designed for tiny hands to grasp easily from birth, encouraging reaching, gripping, and rolling milestones while providing safe sensory stimulation.",
+    "price": 200,
+    "rating": 4.7,
+    "combined_text": "Oball Classic Ball 4-Inch toys development Lightweight, flexible open-weave ball designed for tiny hands to grasp easily from birth, encouraging reaching, gripping, and rolling milestones while providing safe sensory stimulation."
+  },
+  {
+    "id": 90,
+    "name": "Hape Quadrilla Marble Run Building Set",
+    "category": "toys_development",
+    "description": "STEM-focused wooden marble run with 105 pieces encouraging spatial reasoning, patience, and engineering thinking as toddlers and preschoolers construct tunnels, curves, and towers for marbles to run through.",
+    "price": 2400,
+    "rating": 4.8,
+    "combined_text": "Hape Quadrilla Marble Run Building Set toys development STEM-focused wooden marble run with 105 pieces encouraging spatial reasoning, patience, and engineering thinking as toddlers and preschoolers construct tunnels, curves, and towers for marbles to run through."
+  },
+  {
+    "id": 91,
+    "name": "Skip Hop Explore & More Baby's View Activity Center",
+    "category": "toys_development",
+    "description": "Freestanding activity center with a 360-degree rotating seat and interactive toys on every side, ideal for babies who can sit unaided and ready to explore independent play in any room.",
+    "price": 1800,
+    "rating": 4.6,
+    "combined_text": "Skip Hop Explore & More Baby's View Activity Center toys development Freestanding activity center with a 360-degree rotating seat and interactive toys on every side, ideal for babies who can sit unaided and ready to explore independent play in any room."
+  },
+  {
+    "id": 92,
+    "name": "Infantino Twist & Fold Activity Gym & Play Mat",
+    "category": "toys_development",
+    "description": "Portable activity gym with five arches of hanging toys that twist and fold into a compact carry case, perfect for encouraging tummy time and sensory play both at home and on trips.",
+    "price": 980,
+    "rating": 4.5,
+    "combined_text": "Infantino Twist & Fold Activity Gym & Play Mat toys development Portable activity gym with five arches of hanging toys that twist and fold into a compact carry case, perfect for encouraging tummy time and sensory play both at home and on trips."
+  },
+  {
+    "id": 93,
+    "name": "Little Tikes Easy Score Basketball Set",
+    "category": "outdoor_activity",
+    "description": "Adjustable height backboard and hoop set designed for toddlers outdoors, promoting active gross motor play, hand-eye coordination, and healthy outdoor habits from eighteen months of age.",
+    "price": 760,
+    "rating": 4.4,
+    "combined_text": "Little Tikes Easy Score Basketball Set outdoor activity Adjustable height backboard and hoop set designed for toddlers outdoors, promoting active gross motor play, hand-eye coordination, and healthy outdoor habits from eighteen months of age."
+  },
+  {
+    "id": 94,
+    "name": "Step2 Naturally Playful Sandbox & Picnic Table",
+    "category": "outdoor_activity",
+    "description": "Two-in-one outdoor sandbox and picnic table with a protective lid that keeps sand clean when not in use, encouraging imaginative play, social interaction, and tactile sensory exploration outside.",
+    "price": 2200,
+    "rating": 4.5,
+    "combined_text": "Step2 Naturally Playful Sandbox & Picnic Table outdoor activity Two-in-one outdoor sandbox and picnic table with a protective lid that keeps sand clean when not in use, encouraging imaginative play, social interaction, and tactile sensory exploration outside."
+  },
+  {
+    "id": 95,
+    "name": "Melissa & Doug Sunny Patch Froggy Balance Board",
+    "category": "outdoor_activity",
+    "description": "Curved wooden balance board with a non-slip surface and frog print design, helping toddlers and preschoolers develop core strength, balance, and coordination through active outdoor and indoor play.",
+    "price": 840,
+    "rating": 4.6,
+    "combined_text": "Melissa & Doug Sunny Patch Froggy Balance Board outdoor activity Curved wooden balance board with a non-slip surface and frog print design, helping toddlers and preschoolers develop core strength, balance, and coordination through active outdoor and indoor play."
+  },
+  {
+    "id": 96,
+    "name": "Radio Flyer Classic Red Rider Wagon",
+    "category": "outdoor_activity",
+    "description": "Iconic red steel wagon with durable ball-bearing wheels and a fold-down side, perfect for neighborhood strolls, park outings, and hauling gear or children from toddler age onward.",
+    "price": 1950,
+    "rating": 4.7,
+    "combined_text": "Radio Flyer Classic Red Rider Wagon outdoor activity Iconic red steel wagon with durable ball-bearing wheels and a fold-down side, perfect for neighborhood strolls, park outings, and hauling gear or children from toddler age onward."
+  },
+  {
+    "id": 97,
+    "name": "Intex Swim Center Family Lounge Pool",
+    "category": "outdoor_activity",
+    "description": "Large inflatable family pool with a comfortable backrest and built-in drink holder, providing refreshing backyard water play for babies supervised in shallow water during warm months.",
+    "price": 1400,
+    "rating": 4.3,
+    "combined_text": "Intex Swim Center Family Lounge Pool outdoor activity Large inflatable family pool with a comfortable backrest and built-in drink holder, providing refreshing backyard water play for babies supervised in shallow water during warm months."
+  },
+  {
+    "id": 98,
+    "name": "Playskool Sit 'n Spin Classic Spinning Toy",
+    "category": "outdoor_activity",
+    "description": "Classic sit-and-spin toy that teaches toddlers to use hand and body motion to spin independently, building vestibular balance, core strength, and coordination from 18 months to 3 years.",
+    "price": 620,
+    "rating": 4.5,
+    "combined_text": "Playskool Sit 'n Spin Classic Spinning Toy outdoor activity Classic sit-and-spin toy that teaches toddlers to use hand and body motion to spin independently, building vestibular balance, core strength, and coordination from 18 months to 3 years."
+  },
+  {
+    "id": 99,
+    "name": "Fisher-Price Rock-a-Stack Outdoor Edition",
+    "category": "outdoor_activity",
+    "description": "Chunky ring stacker in weather-resistant materials designed for outdoor play, helping babies develop color recognition, grasping skills, and size-sequencing while enjoying fresh air from six months.",
+    "price": 310,
+    "rating": 4.4,
+    "combined_text": "Fisher-Price Rock-a-Stack Outdoor Edition outdoor activity Chunky ring stacker in weather-resistant materials designed for outdoor play, helping babies develop color recognition, grasping skills, and size-sequencing while enjoying fresh air from six months."
+  },
+  {
+    "id": 100,
+    "name": "Boon Flair Pedestal Highchair",
+    "category": "feeding",
+    "description": "Sleek modern highchair on a pneumatic pedestal base for easy height adjustment, suitable for outdoor patio mealtimes with a tray and seat that wipe clean effortlessly for mess-free al-fresco feeding.",
+    "price": 3400,
+    "rating": 4.5,
+    "combined_text": "Boon Flair Pedestal Highchair feeding Sleek modern highchair on a pneumatic pedestal base for easy height adjustment, suitable for outdoor patio mealtimes with a tray and seat that wipe clean effortlessly for mess-free al-fresco feeding."
+  },
+  {
+    "id": 101,
+    "name": "Pampers Pure Protection Diapers Size 3",
+    "category": "diapering",
+    "description": "Plant-based liner diapers free from fragrance, chlorine, and parabens, offering premium softness and leak protection for older infants with sensitive skin during active daytime and overnight wear.",
+    "price": 430,
+    "rating": 4.7,
+    "combined_text": "Pampers Pure Protection Diapers Size 3 diapering Plant-based liner diapers free from fragrance, chlorine, and parabens, offering premium softness and leak protection for older infants with sensitive skin during active daytime and overnight wear."
+  },
+  {
+    "id": 102,
+    "name": "Upchoose Organic Reusable Diaper Cover",
+    "category": "diapering",
+    "description": "Waterproof organic cotton diaper cover with adjustable snaps that fits over flat or prefold cloth diapers, providing an eco-conscious and budget-friendly diapering solution for babies aged 3 to 15 kg.",
+    "price": 340,
+    "rating": 4.3,
+    "combined_text": "Upchoose Organic Reusable Diaper Cover diapering Waterproof organic cotton diaper cover with adjustable snaps that fits over flat or prefold cloth diapers, providing an eco-conscious and budget-friendly diapering solution for babies aged 3 to 15 kg."
+  },
+  {
+    "id": 103,
+    "name": "Dekor Classic Diaper Pail",
+    "category": "diapering",
+    "description": "Hands-free step-pedal diaper pail with continuous liner film that never requires removing the bag to change it, keeping diaper disposal quick and odor-locked during all stages of diapering.",
+    "price": 990,
+    "rating": 4.5,
+    "combined_text": "Dekor Classic Diaper Pail diapering Hands-free step-pedal diaper pail with continuous liner film that never requires removing the bag to change it, keeping diaper disposal quick and odor-locked during all stages of diapering."
+  },
+  {
+    "id": 104,
+    "name": "Aquaphor Baby Healing Ointment 198g",
+    "category": "diapering",
+    "description": "Multi-purpose healing ointment that forms a protective barrier against diaper rash, chapping, and minor skin irritation, gentle enough for daily use on newborn and infant skin from day one.",
+    "price": 360,
+    "rating": 4.8,
+    "combined_text": "Aquaphor Baby Healing Ointment 198g diapering Multi-purpose healing ointment that forms a protective barrier against diaper rash, chapping, and minor skin irritation, gentle enough for daily use on newborn and infant skin from day one."
+  },
+  {
+    "id": 105,
+    "name": "OXO Tot On-The-Go Wipes Holder",
+    "category": "diapering",
+    "description": "Compact portable wipes case with a flip-top lid that pops open with one hand and snaps closed securely, making diaper bag organization tidy and wipes easily accessible during outings.",
+    "price": 240,
+    "rating": 4.4,
+    "combined_text": "OXO Tot On-The-Go Wipes Holder diapering Compact portable wipes case with a flip-top lid that pops open with one hand and snaps closed securely, making diaper bag organization tidy and wipes easily accessible during outings."
+  },
+  {
+    "id": 106,
+    "name": "Spectra S1 Plus Double Electric Breast Pump",
+    "category": "feeding",
+    "description": "Hospital-grade rechargeable double pump with adjustable suction cycles, night light, and quiet motor, offering working and stay-at-home mothers efficient and comfortable pumping sessions any time.",
+    "price": 4400,
+    "rating": 4.8,
+    "combined_text": "Spectra S1 Plus Double Electric Breast Pump feeding Hospital-grade rechargeable double pump with adjustable suction cycles, night light, and quiet motor, offering working and stay-at-home mothers efficient and comfortable pumping sessions any time."
+  },
+  {
+    "id": 107,
+    "name": "Munchkin Latch Anti-Colic Baby Bottle 120ml",
+    "category": "feeding",
+    "description": "Soft silicone bottle with an accordion-style nipple that stretches naturally like the breast, with an anti-colic valve at the base to prevent air ingestion during feeding for newborns.",
+    "price": 290,
+    "rating": 4.5,
+    "combined_text": "Munchkin Latch Anti-Colic Baby Bottle 120ml feeding Soft silicone bottle with an accordion-style nipple that stretches naturally like the breast, with an anti-colic valve at the base to prevent air ingestion during feeding for newborns."
+  },
+  {
+    "id": 108,
+    "name": "Kiinde Kozii Bottle Warmer & Breast Milk Warmer",
+    "category": "feeding",
+    "description": "Warm-water-bath bottle warmer that safely heats breast milk and formula by circulating warm water, preserving vital nutrients better than steam warming, ideal for nighttime feeds.",
+    "price": 1300,
+    "rating": 4.6,
+    "combined_text": "Kiinde Kozii Bottle Warmer & Breast Milk Warmer feeding Warm-water-bath bottle warmer that safely heats breast milk and formula by circulating warm water, preserving vital nutrients better than steam warming, ideal for nighttime feeds."
+  },
+  {
+    "id": 109,
+    "name": "OXO Tot Bottle Brush with Nipple Cleaner",
+    "category": "feeding",
+    "description": "Ergonomic bottle brush with a built-in nipple cleaner and stand, making thorough cleaning of baby bottles easy and hygienic without scratching surfaces or harboring bacteria between uses.",
+    "price": 210,
+    "rating": 4.5,
+    "combined_text": "OXO Tot Bottle Brush with Nipple Cleaner feeding Ergonomic bottle brush with a built-in nipple cleaner and stand, making thorough cleaning of baby bottles easy and hygienic without scratching surfaces or harboring bacteria between uses."
+  },
+  {
+    "id": 110,
+    "name": "Nuk Space Anti-Colic Baby Bottle 300ml",
+    "category": "feeding",
+    "description": "Wide-neck baby bottle with an innovative Space valve that opens only when baby sucks, preventing air swallowing and reducing colic symptoms for comfortable feeding from newborn to infant stage.",
+    "price": 360,
+    "rating": 4.6,
+    "combined_text": "Nuk Space Anti-Colic Baby Bottle 300ml feeding Wide-neck baby bottle with an innovative Space valve that opens only when baby sucks, preventing air swallowing and reducing colic symptoms for comfortable feeding from newborn to infant stage."
+  },
+  {
+    "id": 111,
+    "name": "Frida Mom Delivery & Nursing Gown 2-Pack",
+    "category": "maternity_care",
+    "description": "Hospital gown designed for labor, delivery, and postpartum nursing with a wrap closure, magnetic back snaps for monitoring access, and nursing flaps for hassle-free breastfeeding in any setting.",
+    "price": 1100,
+    "rating": 4.7,
+    "combined_text": "Frida Mom Delivery & Nursing Gown 2-Pack maternity care Hospital gown designed for labor, delivery, and postpartum nursing with a wrap closure, magnetic back snaps for monitoring access, and nursing flaps for hassle-free breastfeeding in any setting."
+  },
+  {
+    "id": 112,
+    "name": "Bamboobies Washable Nursing Pads 8-Pack",
+    "category": "maternity_care",
+    "description": "Ultra-thin reusable nursing pads in bamboo-viscose fabric that wick moisture away from nipples during breastfeeding, reducing leakage discomfort and avoiding the environmental waste of disposable pads.",
+    "price": 560,
+    "rating": 4.6,
+    "combined_text": "Bamboobies Washable Nursing Pads 8-Pack maternity care Ultra-thin reusable nursing pads in bamboo-viscose fabric that wick moisture away from nipples during breastfeeding, reducing leakage discomfort and avoiding the environmental waste of disposable pads."
+  },
+  {
+    "id": 113,
+    "name": "Supporta Maternity Support Shorts",
+    "category": "maternity_care",
+    "description": "High-waisted maternity support shorts offering targeted pelvic girdle and SPD support, worn discreetly under regular clothing throughout the second and third trimesters for pain-free movement.",
+    "price": 890,
+    "rating": 4.5,
+    "combined_text": "Supporta Maternity Support Shorts maternity care High-waisted maternity support shorts offering targeted pelvic girdle and SPD support, worn discreetly under regular clothing throughout the second and third trimesters for pain-free movement."
+  },
+  {
+    "id": 114,
+    "name": "Medela Purelan Lanolin Nipple Cream 37g",
+    "category": "maternity_care",
+    "description": "Medical-grade ultra-pure lanolin cream that requires no removal before nursing, soothing and protecting cracked sore nipples during the demanding early weeks of establishing a breastfeeding routine.",
+    "price": 380,
+    "rating": 4.7,
+    "combined_text": "Medela Purelan Lanolin Nipple Cream 37g maternity care Medical-grade ultra-pure lanolin cream that requires no removal before nursing, soothing and protecting cracked sore nipples during the demanding early weeks of establishing a breastfeeding routine."
+  },
+  {
+    "id": 115,
+    "name": "Dreamgenii Pregnancy Pillow",
+    "category": "maternity_care",
+    "description": "Scientifically designed pregnancy pillow that supports back and bump simultaneously in the recommended left-side sleeping position, improving circulation and reducing hip pain from the second trimester onward.",
+    "price": 1600,
+    "rating": 4.7,
+    "combined_text": "Dreamgenii Pregnancy Pillow maternity care Scientifically designed pregnancy pillow that supports back and bump simultaneously in the recommended left-side sleeping position, improving circulation and reducing hip pain from the second trimester onward."
+  },
+  {
+    "id": 116,
+    "name": "Munchkin Brica Roll 'n Go Car Seat Travel Bag",
+    "category": "travel_gear",
+    "description": "Padded rolling car seat bag that converts to a backpack for easy airport navigation, protecting the car seat from damage during flights and road trips while reducing check-in hassle.",
+    "price": 1250,
+    "rating": 4.5,
+    "combined_text": "Munchkin Brica Roll 'n Go Car Seat Travel Bag travel gear Padded rolling car seat bag that converts to a backpack for easy airport navigation, protecting the car seat from damage during flights and road trips while reducing check-in hassle."
+  },
+  {
+    "id": 117,
+    "name": "Doona Infant Car Seat & Stroller",
+    "category": "travel_gear",
+    "description": "Revolutionary travel system that transforms instantly from a rear-facing car seat to a fully functional stroller with no extra parts, perfect for urban families prioritizing speed and simplicity on the go.",
+    "price": 4800,
+    "rating": 4.8,
+    "combined_text": "Doona Infant Car Seat & Stroller travel gear Revolutionary travel system that transforms instantly from a rear-facing car seat to a fully functional stroller with no extra parts, perfect for urban families prioritizing speed and simplicity on the go."
+  },
+  {
+    "id": 118,
+    "name": "Joie Everystage FX Combination Car Seat",
+    "category": "travel_gear",
+    "description": "All-in-one car seat accommodating newborns to 36 kg in rear-facing, forward-facing, and booster positions, offering a single seat solution that adapts as the child grows through every stage.",
+    "price": 3500,
+    "rating": 4.7,
+    "combined_text": "Joie Everystage FX Combination Car Seat travel gear All-in-one car seat accommodating newborns to 36 kg in rear-facing, forward-facing, and booster positions, offering a single seat solution that adapts as the child grows through every stage."
+  },
+  {
+    "id": 119,
+    "name": "Tula Free-to-Grow Baby Carrier",
+    "category": "travel_gear",
+    "description": "Ergonomic soft-structured carrier with an adjustable body panel that expands to fit newborns without any insert, carrying babies in a healthy frog-leg position from birth to toddlerhood.",
+    "price": 2600,
+    "rating": 4.7,
+    "combined_text": "Tula Free-to-Grow Baby Carrier travel gear Ergonomic soft-structured carrier with an adjustable body panel that expands to fit newborns without any insert, carrying babies in a healthy frog-leg position from birth to toddlerhood."
+  },
+  {
+    "id": 120,
+    "name": "Bugaboo Ant Compact Travel Stroller",
+    "category": "travel_gear",
+    "description": "Ultra-compact stroller with a self-standing one-handed fold and reversible seat, built to fit airline overhead bins and navigate tight spaces in airports, restaurants, and city streets effortlessly.",
+    "price": 4300,
+    "rating": 4.6,
+    "combined_text": "Bugaboo Ant Compact Travel Stroller travel gear Ultra-compact stroller with a self-standing one-handed fold and reversible seat, built to fit airline overhead bins and navigate tight spaces in airports, restaurants, and city streets effortlessly."
+  },
+  {
+    "id": 121,
+    "name": "Summer Infant SwaddleMe Original Swaddle 3-Pack",
+    "category": "clothing",
+    "description": "Adjustable swaddle wraps with hook-and-loop closures that keep the tightest swaddle from unraveling, helping newborns sleep longer with a secure womb-like feeling through the first three months.",
+    "price": 460,
+    "rating": 4.6,
+    "combined_text": "Summer Infant SwaddleMe Original Swaddle 3-Pack clothing Adjustable swaddle wraps with hook-and-loop closures that keep the tightest swaddle from unraveling, helping newborns sleep longer with a secure womb-like feeling through the first three months."
+  },
+  {
+    "id": 122,
+    "name": "Next Maternity Over Bump Leggings 2-Pack",
+    "category": "clothing",
+    "description": "Comfortable over-bump maternity leggings in ponte fabric with a full-panel waistband that supports the growing belly, machine washable and ideal for daily wear, yoga, or light exercise during pregnancy.",
+    "price": 540,
+    "rating": 4.5,
+    "combined_text": "Next Maternity Over Bump Leggings 2-Pack clothing Comfortable over-bump maternity leggings in ponte fabric with a full-panel waistband that supports the growing belly, machine washable and ideal for daily wear, yoga, or light exercise during pregnancy."
+  },
+  {
+    "id": 123,
+    "name": "Petit Bateau Baby Velour All-in-One",
+    "category": "clothing",
+    "description": "Plush velour all-in-one suit with press-stud fastening along the legs for quick diaper access, a French classic keeping babies warm and stylish for outings and cozy home days from birth.",
+    "price": 780,
+    "rating": 4.6,
+    "combined_text": "Petit Bateau Baby Velour All-in-One clothing Plush velour all-in-one suit with press-stud fastening along the legs for quick diaper access, a French classic keeping babies warm and stylish for outings and cozy home days from birth."
+  },
+  {
+    "id": 124,
+    "name": "Lucy & Leo Organic Baby Kimono Shirt 3-Pack",
+    "category": "clothing",
+    "description": "Set of three GOTS-certified organic cotton side-tie kimono shirts with snap closures, safe for newborn skin and ideal for dressing without pulling garments over the head in the early weeks.",
+    "price": 520,
+    "rating": 4.5,
+    "combined_text": "Lucy & Leo Organic Baby Kimono Shirt 3-Pack clothing Set of three GOTS-certified organic cotton side-tie kimono shirts with snap closures, safe for newborn skin and ideal for dressing without pulling garments over the head in the early weeks."
+  },
+  {
+    "id": 125,
+    "name": "Hanna Andersson Organic Long John Pajamas",
+    "category": "clothing",
+    "description": "Classic two-piece organic cotton long john pajamas with playful prints, offering comfortable full-coverage warmth for toddlers without the tripping hazard of footed styles during nighttime movements.",
+    "price": 680,
+    "rating": 4.7,
+    "combined_text": "Hanna Andersson Organic Long John Pajamas clothing Classic two-piece organic cotton long john pajamas with playful prints, offering comfortable full-coverage warmth for toddlers without the tripping hazard of footed styles during nighttime movements."
+  },
+  {
+    "id": 126,
+    "name": "Aveeno Baby Daily Moisture Lotion 532ml",
+    "category": "bath_skincare",
+    "description": "Gentle daily moisturizer with natural oat formula clinically shown to improve baby skin health, providing 24-hour moisture and a light scent for daily use on normal to dry infant skin.",
+    "price": 380,
+    "rating": 4.7,
+    "combined_text": "Aveeno Baby Daily Moisture Lotion 532ml bath skincare Gentle daily moisturizer with natural oat formula clinically shown to improve baby skin health, providing 24-hour moisture and a light scent for daily use on normal to dry infant skin."
+  },
+  {
+    "id": 127,
+    "name": "4moms Infant Tub with Thermometer",
+    "category": "bath_skincare",
+    "description": "Modern baby bathtub with a built-in digital thermometer displaying real-time water temperature, ensuring perfectly safe bath water for newborns and reducing the risk of accidental scalding.",
+    "price": 1100,
+    "rating": 4.5,
+    "combined_text": "4moms Infant Tub with Thermometer bath skincare Modern baby bathtub with a built-in digital thermometer displaying real-time water temperature, ensuring perfectly safe bath water for newborns and reducing the risk of accidental scalding."
+  },
+  {
+    "id": 128,
+    "name": "Tubby Todd All Over Ointment",
+    "category": "bath_skincare",
+    "description": "Thick multi-purpose ointment made with sunflower and beeswax that seals in moisture for eczema-prone infant skin, safe for use on the face, body, and diaper area from newborn stage.",
+    "price": 520,
+    "rating": 4.8,
+    "combined_text": "Tubby Todd All Over Ointment bath skincare Thick multi-purpose ointment made with sunflower and beeswax that seals in moisture for eczema-prone infant skin, safe for use on the face, body, and diaper area from newborn stage."
+  },
+  {
+    "id": 129,
+    "name": "Pigeon Baby Nail File Set",
+    "category": "bath_skincare",
+    "description": "Soft emery board nail file set sized specifically for newborn fingernails, offering a safe alternative to clippers for parents nervous about trimming tiny nails in the first weeks of life.",
+    "price": 200,
+    "rating": 4.4,
+    "combined_text": "Pigeon Baby Nail File Set bath skincare Soft emery board nail file set sized specifically for newborn fingernails, offering a safe alternative to clippers for parents nervous about trimming tiny nails in the first weeks of life."
+  },
+  {
+    "id": 130,
+    "name": "Cocoon by Seraphina Sensitive Baby Sunscreen SPF50",
+    "category": "bath_skincare",
+    "description": "Mineral-based SPF50 baby sunscreen with zinc oxide and titanium dioxide, providing broad-spectrum UVA and UVB protection for delicate infant skin during outdoor activities from six months of age.",
+    "price": 460,
+    "rating": 4.6,
+    "combined_text": "Cocoon by Seraphina Sensitive Baby Sunscreen SPF50 bath skincare Mineral-based SPF50 baby sunscreen with zinc oxide and titanium dioxide, providing broad-spectrum UVA and UVB protection for delicate infant skin during outdoor activities from six months of age."
+  },
+  {
+    "id": 131,
+    "name": "Arlo Pro Baby Audio Monitor",
+    "category": "health_safety",
+    "description": "Long-range DECT audio baby monitor with night light and lullaby function, providing crystal-clear sound transmission across a large home so parents can hear every infant coo and cry clearly.",
+    "price": 1200,
+    "rating": 4.5,
+    "combined_text": "Arlo Pro Baby Audio Monitor health safety Long-range DECT audio baby monitor with night light and lullaby function, providing crystal-clear sound transmission across a large home so parents can hear every infant coo and cry clearly."
+  },
+  {
+    "id": 132,
+    "name": "Safety 1st Ready Safe Toilet Lock",
+    "category": "health_safety",
+    "description": "One-push adult-operated toilet seat lock that prevents toddlers from lifting the lid unsupervised, eliminating the drowning and germ exposure hazard in bathrooms during the exploratory toddler stage.",
+    "price": 260,
+    "rating": 4.3,
+    "combined_text": "Safety 1st Ready Safe Toilet Lock health safety One-push adult-operated toilet seat lock that prevents toddlers from lifting the lid unsupervised, eliminating the drowning and germ exposure hazard in bathrooms during the exploratory toddler stage."
+  },
+  {
+    "id": 133,
+    "name": "B. Smart BPA-Free Silicone Baby Spoon Set 6-Pack",
+    "category": "health_safety",
+    "description": "Soft-tip silicone spoons with a heat-sensing tip that turns white if the food is too hot, keeping babies safe from oral burns during the introduction of solid foods from around four months.",
+    "price": 320,
+    "rating": 4.5,
+    "combined_text": "B. Smart BPA-Free Silicone Baby Spoon Set 6-Pack health safety Soft-tip silicone spoons with a heat-sensing tip that turns white if the food is too hot, keeping babies safe from oral burns during the introduction of solid foods from around four months."
+  },
+  {
+    "id": 134,
+    "name": "Infant Optics DXR-8 Pro Baby Monitor",
+    "category": "health_safety",
+    "description": "Modular optical zoom video monitor with a dedicated parent unit requiring no Wi-Fi, delivering secure uninterrupted HD video of the nursery with a wide-angle and zoom lens system.",
+    "price": 3600,
+    "rating": 4.7,
+    "combined_text": "Infant Optics DXR-8 Pro Baby Monitor health safety Modular optical zoom video monitor with a dedicated parent unit requiring no Wi-Fi, delivering secure uninterrupted HD video of the nursery with a wide-angle and zoom lens system."
+  },
+  {
+    "id": 135,
+    "name": "Summer Infant Pop 'n Sit Portable Booster",
+    "category": "health_safety",
+    "description": "Compact pop-up booster seat with a tray that fits on most dining chairs, perfect for travel mealtimes and restaurant visits, supporting babies transitioning to table food from six months.",
+    "price": 740,
+    "rating": 4.5,
+    "combined_text": "Summer Infant Pop 'n Sit Portable Booster health safety Compact pop-up booster seat with a tray that fits on most dining chairs, perfect for travel mealtimes and restaurant visits, supporting babies transitioning to table food from six months."
+  },
+  {
+    "id": 136,
+    "name": "Bright Starts Lots of Links Accessory Toy",
+    "category": "toys_development",
+    "description": "Set of 24 colorful links that clip to stroller bars, car seats, and activity gyms, providing babies with a simple first toy to grasp, mouth, and manipulate from around two months of age.",
+    "price": 220,
+    "rating": 4.5,
+    "combined_text": "Bright Starts Lots of Links Accessory Toy toys development Set of 24 colorful links that clip to stroller bars, car seats, and activity gyms, providing babies with a simple first toy to grasp, mouth, and manipulate from around two months of age."
+  },
+  {
+    "id": 137,
+    "name": "Fat Brain Toys Wimzle Sensory Baby Toy",
+    "category": "toys_development",
+    "description": "Wobbly sensory toy with spinning rings, clicking beads, and a rattle core that entertains and stimulates baby's auditory and tactile senses during tummy time from around four months of age.",
+    "price": 560,
+    "rating": 4.6,
+    "combined_text": "Fat Brain Toys Wimzle Sensory Baby Toy toys development Wobbly sensory toy with spinning rings, clicking beads, and a rattle core that entertains and stimulates baby's auditory and tactile senses during tummy time from around four months of age."
+  },
+  {
+    "id": 138,
+    "name": "Lamaze Freddie the Firefly Developmental Toy",
+    "category": "toys_development",
+    "description": "Plush developmental toy with crinkle wings, teething rings, a mirror, and high-contrast patterns that engage infant senses and encourage visual tracking and grasping from birth to twelve months.",
+    "price": 380,
+    "rating": 4.7,
+    "combined_text": "Lamaze Freddie the Firefly Developmental Toy toys development Plush developmental toy with crinkle wings, teething rings, a mirror, and high-contrast patterns that engage infant senses and encourage visual tracking and grasping from birth to twelve months."
+  },
+  {
+    "id": 139,
+    "name": "Baby Einstein Sea Dreams Soother Crib Toy",
+    "category": "toys_development",
+    "description": "Crib-attaching soother with moving sea creatures, underwater sounds, and adjustable volume and timer, providing calming sensory stimulation to help babies wind down before and during sleep.",
+    "price": 1100,
+    "rating": 4.6,
+    "combined_text": "Baby Einstein Sea Dreams Soother Crib Toy toys development Crib-attaching soother with moving sea creatures, underwater sounds, and adjustable volume and timer, providing calming sensory stimulation to help babies wind down before and during sleep."
+  },
+  {
+    "id": 140,
+    "name": "Mega Bloks First Builders Big Building Bag 80-Piece",
+    "category": "toys_development",
+    "description": "Large set of oversized interlocking building blocks designed for toddler hands, encouraging freeform construction play that builds spatial reasoning, creativity, and fine motor skills from twelve months.",
+    "price": 760,
+    "rating": 4.6,
+    "combined_text": "Mega Bloks First Builders Big Building Bag 80-Piece toys development Large set of oversized interlocking building blocks designed for toddler hands, encouraging freeform construction play that builds spatial reasoning, creativity, and fine motor skills from twelve months."
+  },
+  {
+    "id": 141,
+    "name": "Graco Comfy Cruiser Travel System",
+    "category": "travel_gear",
+    "description": "Lightweight stroller and infant car seat combo with a one-hand fold, large storage basket, and multi-position reclining seat, offering a practical all-in-one travel solution from hospital to toddlerhood.",
+    "price": 2800,
+    "rating": 4.5,
+    "combined_text": "Graco Comfy Cruiser Travel System travel gear Lightweight stroller and infant car seat combo with a one-hand fold, large storage basket, and multi-position reclining seat, offering a practical all-in-one travel solution from hospital to toddlerhood."
+  },
+  {
+    "id": 142,
+    "name": "Bugaboo Butterfly One-Second Fold Stroller",
+    "category": "travel_gear",
+    "description": "Premium compact stroller with a one-second fold, leather handlebar, and reversible seat, offering luxury and function for city families who want style and portability in daily use.",
+    "price": 4700,
+    "rating": 4.7,
+    "combined_text": "Bugaboo Butterfly One-Second Fold Stroller travel gear Premium compact stroller with a one-second fold, leather handlebar, and reversible seat, offering luxury and function for city families who want style and portability in daily use."
+  },
+  {
+    "id": 143,
+    "name": "Chicco Cortina Together Double Stroller",
+    "category": "travel_gear",
+    "description": "Side-by-side double stroller with two independent reclining seats, a full canopy for each child, and a compatible car seat attachment for infants, suitable for twins and children of similar ages.",
+    "price": 3900,
+    "rating": 4.5,
+    "combined_text": "Chicco Cortina Together Double Stroller travel gear Side-by-side double stroller with two independent reclining seats, a full canopy for each child, and a compatible car seat attachment for infants, suitable for twins and children of similar ages."
+  },
+  {
+    "id": 144,
+    "name": "BabyTrend EZ Ride Travel System",
+    "category": "travel_gear",
+    "description": "Affordable car seat and stroller travel system with a quick fold frame, multi-position stroller recline, and infant car seat featuring side impact protection, providing essential safety at a great value.",
+    "price": 1800,
+    "rating": 4.3,
+    "combined_text": "BabyTrend EZ Ride Travel System travel gear Affordable car seat and stroller travel system with a quick fold frame, multi-position stroller recline, and infant car seat featuring side impact protection, providing essential safety at a great value."
+  },
+  {
+    "id": 145,
+    "name": "Summer Infant Pop 'n Go Playard",
+    "category": "nursery_sleep",
+    "description": "Instant pop-up playard that sets up in seconds for a safe enclosed play and rest space anywhere, including travel, beach, or grandparents' homes, suitable for babies from birth to twelve months.",
+    "price": 1350,
+    "rating": 4.5,
+    "combined_text": "Summer Infant Pop 'n Go Playard nursery sleep Instant pop-up playard that sets up in seconds for a safe enclosed play and rest space anywhere, including travel, beach, or grandparents' homes, suitable for babies from birth to twelve months."
+  },
+  {
+    "id": 146,
+    "name": "Vicks Baby Rub Soothing Ointment 100g",
+    "category": "health_safety",
+    "description": "Gentle baby version of the classic chest rub with calming lavender and rosemary scents and aloe vera, applied to chest and back during cold season to comfort congested infants during sleep.",
+    "price": 240,
+    "rating": 4.5,
+    "combined_text": "Vicks Baby Rub Soothing Ointment 100g health safety Gentle baby version of the classic chest rub with calming lavender and rosemary scents and aloe vera, applied to chest and back during cold season to comfort congested infants during sleep."
+  },
+  {
+    "id": 147,
+    "name": "Ergobaby 360 All-Position Baby Carrier",
+    "category": "travel_gear",
+    "description": "Ergonomic structured carrier supporting four carry positions with lumbar support and an infant insert for newborns, distributing baby weight evenly to prevent back pain during extended carrying.",
+    "price": 2950,
+    "rating": 4.8,
+    "combined_text": "Ergobaby 360 All-Position Baby Carrier travel gear Ergonomic structured carrier supporting four carry positions with lumbar support and an infant insert for newborns, distributing baby weight evenly to prevent back pain during extended carrying."
+  },
+  {
+    "id": 148,
+    "name": "Nuby Easy Grip Toddler Cutlery Set 5-Piece",
+    "category": "feeding",
+    "description": "Chunky-handled fork, spoon, and training chopstick set designed for toddlers developing self-feeding skills, with soft-grip ergonomic handles and rounded ends ensuring safe mealtimes from twelve months.",
+    "price": 260,
+    "rating": 4.4,
+    "combined_text": "Nuby Easy Grip Toddler Cutlery Set 5-Piece feeding Chunky-handled fork, spoon, and training chopstick set designed for toddlers developing self-feeding skills, with soft-grip ergonomic handles and rounded ends ensuring safe mealtimes from twelve months."
+  },
+  {
+    "id": 149,
+    "name": "Little Me Baby Floral Muslin Swaddle & Hat Set",
+    "category": "clothing",
+    "description": "Muslin swaddle blanket and matching hospital hat set in soft breathable cotton, making a lovely newborn gift that keeps fragile babies warm and wrapped in the first days of life.",
+    "price": 490,
+    "rating": 4.6,
+    "combined_text": "Little Me Baby Floral Muslin Swaddle & Hat Set clothing Muslin swaddle blanket and matching hospital hat set in soft breathable cotton, making a lovely newborn gift that keeps fragile babies warm and wrapped in the first days of life."
+  },
+  {
+    "id": 150,
+    "name": "Tiny Love Gymini Deluxe Activity Gym",
+    "category": "outdoor_activity",
+    "description": "Foldable activity gym with eighteen developmental toys, interactive music modes, and a tummy time pillow, encouraging sensory exploration and physical milestones both indoors and in the backyard from birth.",
+    "price": 1650,
+    "rating": 4.7,
+    "combined_text": "Tiny Love Gymini Deluxe Activity Gym outdoor activity Foldable activity gym with eighteen developmental toys, interactive music modes, and a tummy time pillow, encouraging sensory exploration and physical milestones both indoors and in the backyard from birth."
+  }
+]
