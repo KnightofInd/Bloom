@@ -11,80 +11,96 @@
       <header class="hero">
         <div class="brand">
           <div class="logo">Bloom</div>
-          <div class="tagline">Calm, caring recommendations for every stage.</div>
+          <div class="tagline" data-i18n="tagline">Calm, caring recommendations for every stage.</div>
         </div>
         <div class="hero-card">
-          <h1>Find the right essentials in seconds</h1>
-          <p>
+          <h1 data-i18n="heroTitle">Find the right essentials in seconds</h1>
+          <p data-i18n="heroBody">
             Tell us how you are feeling and what you need. We will map your
             request to trusted categories and suggest top products.
           </p>
-          <div class="mode-tabs">
-            <button class="tab active" data-mode="search">Search</button>
-            <button class="tab" data-mode="lifecycle">Lifecycle</button>
+          <div class="hero-tools">
+            <div class="mode-tabs" role="tablist">
+              <button class="tab active" data-mode="search" data-i18n="tabSearch">Search</button>
+              <button class="tab" data-mode="lifecycle" data-i18n="tabLifecycle">Lifecycle</button>
+            </div>
+            <button id="translateBtn" class="translate-btn" type="button">AR</button>
           </div>
           <div id="searchPanel" class="mode-panel">
             <div class="search-row">
               <input
                 id="queryInput"
                 type="text"
+                data-i18n-placeholder="queryPlaceholder"
                 placeholder="Example: I am 7 months pregnant and have back pain"
                 autocomplete="off"
               />
-              <button id="searchBtn">Search</button>
+              <button id="searchBtn" data-i18n="searchBtn">Search</button>
             </div>
           </div>
           <div id="lifecyclePanel" class="mode-panel hidden">
             <div class="search-row">
               <input id="lmpDate" type="date" />
-              <button id="lifecycleBtn">Use lifecycle</button>
+              <button id="lifecycleBtn" data-i18n="lifecycleBtn">Use lifecycle</button>
             </div>
-            <div class="field-hint">Enter the first day of your last menstrual period (LMP).</div>
+            <div class="field-hint" data-i18n="lmpHint">
+              Enter the first day of your last menstrual period (LMP).
+            </div>
             <input
               id="lifecycleQuery"
               type="text"
+              data-i18n-placeholder="lifecyclePlaceholder"
               placeholder="Optional details: back pain, sleep issues, feeding"
               autocomplete="off"
             />
-            <div id="lifecyclePreview" class="lifecycle-preview">Add a date to see trimester.</div>
+            <div id="lifecyclePreview" class="lifecycle-preview" data-i18n="lifecyclePreview">
+              Add a date to see trimester.
+            </div>
           </div>
           <div class="chip-row">
-            <span class="chip">Gentle picks</span>
-            <span class="chip">Trusted ratings</span>
-            <span class="chip">Clear explanations</span>
+            <span class="chip" data-i18n="chipGentle">Gentle picks</span>
+            <span class="chip" data-i18n="chipTrusted">Trusted ratings</span>
+            <span class="chip" data-i18n="chipClear">Clear explanations</span>
           </div>
         </div>
       </header>
 
       <main class="main-grid">
         <section class="panel filters">
-          <h2>Filters</h2>
+          <h2 data-i18n="filtersTitle">Filters</h2>
           <label>
-            Minimum rating
+            <span data-i18n="minRating">Minimum rating</span>
             <input id="minRating" type="number" step="0.1" min="0" max="5" value="4.2" />
           </label>
           <label>
-            Max price
-            <input id="maxPrice" type="number" step="1" min="0" placeholder="No limit" />
+            <span data-i18n="maxPrice">Max price</span>
+            <input
+              id="maxPrice"
+              type="number"
+              step="1"
+              min="0"
+              data-i18n-placeholder="maxPricePlaceholder"
+              placeholder="No limit"
+            />
           </label>
           <label>
-            Top results
+            <span data-i18n="topResults">Top results</span>
             <input id="topN" type="number" min="1" max="10" value="3" />
           </label>
           <label>
-            Candidates per need (k)
+            <span data-i18n="candidates">Candidates per need (k)</span>
             <input id="kValue" type="number" min="1" max="20" value="8" />
           </label>
-          <button id="resetBtn" class="ghost">Reset</button>
+          <button id="resetBtn" class="ghost" data-i18n="resetBtn">Reset</button>
         </section>
 
         <section class="panel results">
           <div class="results-header">
-            <h2>Recommendations</h2>
-            <div id="status" class="status">Ready</div>
+            <h2 data-i18n="resultsTitle">Recommendations</h2>
+            <div id="status" class="status" data-i18n="statusReady">Ready</div>
           </div>
           <div id="lifecycleMeta" class="lifecycle-meta"></div>
-          <div id="explanation" class="explanation empty">
+          <div id="explanation" class="explanation empty" data-i18n="explanationEmpty">
             Run a search to see a personalized explanation.
           </div>
           <div id="resultsList" class="results-list"></div>

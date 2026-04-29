@@ -144,7 +144,7 @@ def run_pipeline(
     if retrieval_backend == "faiss":
         from core import load_sentence_transformer, load_faiss_index
 
-        log("Loading model for query embeddings")
+        log("Loading model for query embeddings (can be slow on first run)")
         model = load_sentence_transformer(model_name)
         if index is None:
             index = load_faiss_index(index_file)
@@ -163,7 +163,7 @@ def run_pipeline(
     elif retrieval_backend == "numpy":
         from core import load_sentence_transformer
 
-        log("Loading model for query embeddings")
+        log("Loading model for query embeddings (can be slow on first run)")
         model = load_sentence_transformer(model_name)
         if embeddings is None:
             embeddings = build_embeddings(products, model_name)

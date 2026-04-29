@@ -113,3 +113,124 @@ Open: http://127.0.0.1:8000
 
 ## 📄 License
 MIT
+
+---
+
+## One-paragraph Summary
+Bloom is an AI-powered lifecycle-aware recommendation system for maternity and baby care. It translates a user’s free-text needs into structured intents, augments them with pregnancy stage (via LMP), and retrieves relevant products with contextual explanations. The system ensures stage-appropriate recommendations, reduces ambiguity in search, and improves personalization for expecting and new mothers.
+
+## Prototype Access
+- GitHub Repo: https://github.com/KnightofInd
+- Demo Video (Loom-style): https://drive.google.com/file/d/15WSOrb7y1fk64ym0gkIMGRAIE8Em2ClA/view
+
+## Discovery
+**Persona**
+A 28-year-old pregnant woman (first pregnancy), navigating products for health, comfort, and baby preparation.
+
+**Observations while exploring Mumzworld**
+- Free-text search leads to inconsistent and noisy results
+- No lifecycle-awareness (trimester-specific needs ignored)
+- Overwhelming product catalog without contextual reasoning
+- Weak personalization beyond basic filtering
+
+**Chosen Problem**
+Lack of context-aware, lifecycle-based product recommendations.
+
+**Why this problem**
+- High-impact: directly affects purchase decisions
+- Repeated across user journeys
+- Cannot be solved with static UX improvements alone
+
+## Why AI
+A traditional system (filters, categories) fails because:
+- User intent is ambiguous ("back pain", "baby prep", etc.)
+- Needs evolve dynamically across pregnancy stages
+- Context must be inferred, not explicitly selected
+
+AI enables:
+- Semantic understanding of user queries
+- Lifecycle inference (trimester awareness)
+- Context-aware ranking and explanations
+
+Without AI, this becomes rigid and rule-based. With AI, it becomes adaptive and personalized.
+
+## Working Prototype
+**System Built:** Bloom
+
+**Core pipeline**
+- User input (query + optional LMP)
+- Lifecycle inference (trimester/postpartum)
+- Need extraction (controlled vocabulary + LLM fallback)
+- Retrieval (FAISS + embedding similarity)
+- Context-aware filtering & re-ranking
+- Explanation generation (LLM or fallback)
+
+**Key capabilities**
+- Free-text → structured needs
+- Lifecycle-aware augmentation
+- Semantic retrieval over product catalog
+- Explainable recommendations
+
+**Modular architecture**
+- Extraction layer
+- Retrieval layer
+- Explanation layer
+- FastAPI backend + lightweight UI
+
+## Show Your Work
+**Tools used**
+- Gemini API → extraction + explanations
+- SentenceTransformers → embeddings
+- FAISS → vector search
+- FastAPI → backend
+- HTML/CSS/JS → UI
+
+**Timeline log (approx.)**
+- 0–1 hr → Problem discovery + framing
+- 1–2 hr → Architecture + pipeline design
+- 2–4 hr → Core implementation (extraction + retrieval)
+- 4–5 hr → UI + explanation layer + testing
+
+**Prompts that mattered**
+- Need extraction prompt (structured vocabulary mapping)
+- Lifecycle augmentation prompt (trimester-aware needs)
+- Explanation generation prompt (concise + grounded output)
+
+**Refinement focused on**
+- Reducing hallucination
+- Forcing structured outputs
+- Improving clarity of explanations
+
+**Dead ends**
+- Pure keyword search → low relevance
+- Over-reliance on LLM → inconsistent outputs
+- No lifecycle modeling → generic recommendations
+
+**Cuts from scope**
+- Multilingual (EN/AR) support
+- Real-time evaluation dashboard
+- Advanced ranking metrics
+
+**Reflection**
+- Lifecycle awareness drastically improves relevance
+- Hybrid systems (AI + rules) outperform pure LLM setups
+- Retrieval quality matters more than generation quality
+
+## Measurement
+**Leading indicator (Week 1)**
+Click-through rate on recommended products.
+
+**Experiment plan**
+- Run A/B test (5% users with Bloom vs baseline)
+- Success = higher CTR + lower search abandonment
+- Failure = no improvement or irrelevant recommendations
+
+## AI Usage Note
+Used Gemini API for structured extraction and explanations, SentenceTransformers + FAISS for semantic retrieval, and ChatGPT/Cursor for iterative development and debugging. AI assisted in prompt design, pipeline structuring, and refinement of outputs.
+
+## Time Log
+- Discovery: 1 hr
+- Design: 1 hr
+- Implementation: 2 hrs
+- Testing + UI: 1 hr
+- Total: ~5 hrs

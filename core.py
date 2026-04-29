@@ -18,8 +18,10 @@ def log(message: str) -> None:
 def load_sentence_transformer(model_name: str):
     from sentence_transformers import SentenceTransformer
 
-    log(f"Loading embedding model: {model_name}")
-    return SentenceTransformer(model_name)
+    log(f"Loading embedding model: {model_name} (first load may download weights)")
+    model = SentenceTransformer(model_name)
+    log(f"Embedding model ready: {model_name}")
+    return model
 
 
 def load_faiss_module():

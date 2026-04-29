@@ -123,6 +123,13 @@ body {
   margin-top: 14px;
 }
 
+.hero-tools {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
 .mode-tabs {
   display: inline-flex;
   gap: 8px;
@@ -130,6 +137,21 @@ body {
   background: #fff1ea;
   padding: 6px;
   border-radius: 999px;
+}
+
+.translate-btn {
+  border: 1px solid #efdcd5;
+  background: #ffffff;
+  color: var(--ink);
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-weight: 700;
+  cursor: pointer;
+  min-width: 56px;
+}
+
+.translate-btn:hover {
+  box-shadow: 0 8px 18px rgba(238, 166, 146, 0.25);
 }
 
 .mode-tabs .tab {
@@ -240,6 +262,24 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 12px;
+}
+
+[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+[dir="rtl"] .hero,
+[dir="rtl"] .main-grid {
+  direction: rtl;
+}
+
+[dir="rtl"] .search-row {
+  grid-template-columns: auto 1fr;
+}
+
+[dir="rtl"] .card-meta {
+  flex-direction: row-reverse;
 }
 
 .status {

@@ -27,8 +27,6 @@ dist/
 
 # Local data artifacts
 *.npy
-faiss_index.bin
-embeddings.npy
 query_output.json
 check_*.json
 enhanced_output_*.json
